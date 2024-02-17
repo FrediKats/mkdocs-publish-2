@@ -1,5 +1,6 @@
 Попытка использовать [[./Knowledge base/Tools/Obsidian/Obsidian|Obsidian]] для базы знаний.
 
+
 Список постов:
 - [[./Personal content/Blog/2024-02-13-Quality-Assurance-as-a-service|2024-02-13-Quality-Assurance-as-a-service]]
 - [[./Personal content/Blog/2024-01-21-Shared-output-directory-for-dotnet-projects|2024-01-21-Shared-output-directory-for-dotnet-projects]]
